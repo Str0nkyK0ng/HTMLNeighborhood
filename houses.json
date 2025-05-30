@@ -1,1 +1,26 @@
-[{ "name": "Aidan Strong", "href": "https://aidanstrong.info" }]
+[
+  {
+    "name": "Discoid",
+    "href": "photos/Discoid.JPG",
+    "description": "A well of links where everything is clickable: every brick and every shadow",
+    "built": "CSA 2025"
+  },
+  {
+    "name": "Plants Are People Too",
+    "href": "photos/plantsArePeoplToo.JPG",
+    "description": "A celebration of the individual personalities of plants",
+    "built": "CSA 2025"
+  },
+  {
+    "name": "Please Stand By",
+    "href": "photos/PleaseStandBy.JPG",
+    "description": "A communal browsing exerience. Broadcast a browser for everyone to share.",
+    "built": "CSA 2025"
+  },
+  {
+    "name": "Hide and Go Link",
+    "href": "photos/hideAndGoLink.JPG",
+    "description": "Shine a light in the dark to find links to click on. Each one with with it's own personality.",
+    "built": "CSA 2025"
+  }
+]
